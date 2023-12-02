@@ -1,0 +1,20 @@
+{
+  "name": "Auto Backup",
+  "description": "",
+  "projectName": "STM32F722RET6",
+  "owner": {
+    "uuid": "d426b5a8ec6d40eb8518ece4f398cc6e",
+    "username": null,
+    "nickname": null,
+    "avatar": null
+  },
+  "members": [
+    {
+      "uuid": "d426b5a8ec6d40eb8518ece4f398cc6e",
+      "username": "",
+      "nickname": "",
+      "avatar": ""
+    }
+  ],
+  "backupTime": "2023-12-02 01:16:15"
+}
